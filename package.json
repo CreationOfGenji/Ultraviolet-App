@@ -1,1 +1,6 @@
-{}
+{
+  "name": "armana",
+  "scripts": {
+    "start": "node src/index.js"
+  }
+}
